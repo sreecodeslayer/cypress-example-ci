@@ -1,0 +1,12 @@
+{
+  "name": "cypress-example",
+  "version": "1.0.0",
+  "description": "test cases using cypress",
+  "main": "index.js",
+  "author": "Sreenadh TC <kesav.tc8@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "cypress": "^3.2.0"
+  }
+}

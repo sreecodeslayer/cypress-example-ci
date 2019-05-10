@@ -4,7 +4,7 @@ describe('TEST THAT PASSES', function() {
   })
 })
 describe('TEST THAT FAILS', function() {
-  it('makes a fummy failing test!', function() {
+  it('makes a dummy failing test!', function() {
     expect(false).to.equal(true)
   })
 })

@@ -1,5 +1,4 @@
 {
-  // Add "assets" as docker volume
-  "videosFolder":"./assets/videos",
-  "screenshotsFolder":"./assets/screenshots"
+  "videosFolder":"/assets/videos",
+  "screenshotsFolder":"/assets/screenshots"
 }
